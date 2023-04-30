@@ -40,7 +40,7 @@ additional_links:
   url: https://www.hackerrank.com/nazmulislam76bd
   
 - title: LeetCode
-  icon: images/leetcode.png
+  icon: fa-sharp fa-solid fa-globe (https://fontawesome.com/icons/globe?f=sharp&s=solid)
   url: https://leetcode.com/nazmulislam/ 
   
 # - title: another link
