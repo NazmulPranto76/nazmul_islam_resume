@@ -19,7 +19,7 @@ darkmode: true
 github_username:  NazmulPranto76
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: Nazmul Pranto
+# facebook_username: Nazmul Pranto
 # flickr_username: jekyll
 # instagram_username: jameswgrant
 # linkedin_username: jameswgrant
@@ -33,7 +33,16 @@ facebook_username: Nazmul Pranto
 additional_links:
 - title: facebook
   icon: fab fa-facebook (https://fontawesome.com/icons/facebook?f=brands&s=solid)
-  url: https://www.facebook.com/nazmul.pranto.31/
+  url: https://www.facebook.com/nazmul.pranto.31/  
+  
+- title: HackerRank
+  icon: fab fa-hackerrank (https://fontawesome.com/icons/hackerrank?f=brands&s=solid)
+  url: https://www.hackerrank.com/nazmulislam76bd
+  
+- title: LeetCode
+  icon: fab fa-leetcode (https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job)
+  url: https://leetcode.com/nazmulislam/ 
+  
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
