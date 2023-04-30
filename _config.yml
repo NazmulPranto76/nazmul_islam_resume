@@ -40,7 +40,7 @@ additional_links:
   url: https://www.hackerrank.com/nazmulislam76bd
   
 - title: LeetCode
-  icon: fab fa-leetcode (https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
+  icon: fab fa-leetcode (/images/leetcode.png)
   url: https://leetcode.com/nazmulislam/ 
   
 # - title: another link
