@@ -12,7 +12,7 @@ email: nazmulislam76bd@gmail.com
 website: https://nazmulpranto76.github.io/nazmul_islam_resume/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: facespics
@@ -40,7 +40,7 @@ additional_links:
   url: https://www.hackerrank.com/nazmulislam76bd
   
 - title: LeetCode
-  icon: images/leetcode.ico
+  icon: https://coreui.io/icons/brand/leetcode/
   url: https://leetcode.com/nazmulislam/ 
   
 # - title: another link
