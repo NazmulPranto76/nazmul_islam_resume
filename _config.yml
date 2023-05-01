@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+#     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Hotel Management System
@@ -86,7 +86,7 @@ content:
       - layout: top-left
         title: Thesis Project
         description: | # this will include new lines to allow paragraphs
-          **Surveillance in Maritime Scenario Using Deep-Learning and Swarm Intelligence**
+          **Surveillance in Maritime Scenario Using Deep-Learning and Swarm Intelligence**.
           
           This is my thesis project for drone-based rescue operations using swarm algorithm and object detection CNN model.
 
