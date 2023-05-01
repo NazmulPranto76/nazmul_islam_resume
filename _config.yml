@@ -70,19 +70,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           This is a simple academic project I have completed under software engineering course using <mark>JAVA</mark> and <mark>MVC</mark> architectural pattern.
 
-    content:
       - layout: left
         title: R-BLOG
         description: | # this will include new lines to allow paragraphs
           A blog-based project using <mark>HTML</mark>, <mark>CSS</mark>, <mark>JavaScript</mark> and <mark>Django</mark> framework. I started this project as a way to learn about <mark>Django</mark>. Currently, working on it to add more features.
 
-    content:
       - layout: left
         title: Buy-It
         description: | # this will include new lines to allow paragraphs
           An E-commerce project mainly based on <mark>Django</mark>, <mark>Bootstrap</mark>, and <mark>JavaScript</mark>. I wanted to learn how an E-commerce website works and try to implement <mark>REST</mark> api in this project.
 
-    content:
       - layout: top-left
         title: Thesis Project
         description: | # this will include new lines to allow paragraphs
