@@ -47,25 +47,25 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Nazmul Islam and I'm a recent Computer Science graduate who is highly motivated and eager to work in a professional setting. An enthusiastic person who is well dedicated to his craft. I am constantly developing and striving to be the best in the field.
 
-  Currently, I am learning <mark>Django</mark> and also, studying to become a <mark>DevOps and Cloud Engineer</mark>.
+  Currently, I am learning <mark>Django</mark>, <mark>React</mark> and also, studying to become a <mark>DevOps and Cloud Engineer</mark>.
 
 content:
   - title: Projects # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      *Hotel Management System*
+      **Hotel Management System**
       
       This is a simple academic project I have completed under software engineering course using <mark>JAVA</mark> and <mark>MVC</mark> architectural pattern.
 
-       *R-BLOG*
+       #####*R-BLOG*
        
        A blog-based project using <mark>HTML</mark>, <mark>CSS</mark>, <mark>JavaScript</mark> and <mark>Django</mark> framework. I started this project as a way to learn about <mark>Django</mark>. Currently, working on it to add more features.
 
-       *Buy-It*
+       **Buy-It**
        
        An E-commerce project mainly based on <mark>Django</mark>, <mark>Bootstrap</mark>, and <mark>JavaScript</mark>. I wanted to learn how an E-commerce website works and try to implement <mark>REST</mark> api in this project.
         
-       *Surveillance in Maritime Scenario Using Deep-Learning and Swarm Intelligence*
+       **Surveillance in Maritime Scenario Using Deep-Learning and Swarm Intelligence**
         
        This is my thesis project for drone-based rescue operations using swarm algorithm and object detection CNN model.
 
@@ -99,18 +99,18 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Programming Language:**
-      - Python
-      - JAVA
-      - C++
-      - NetLogo
+      - <mark>Python</mark>
+      - <mark>JAVA</mark>
+      - <mark>C++</mark>
+      - <mark>NetLogo</mark>
       
       **Structured Query Language:**
-      - MySQL
+      - <mark>MySQL</mark>
       
       **Framework:**
-      - Django
-      - TensorFlow
-      - Pytorch
+      - <mark>Django</mark>
+      - <mark>TensorFlow</mark>
+      - <mark>Pytorch</mark>
       
   - title: A Little More About Me
     layout: text
