@@ -57,7 +57,7 @@ content:
       
       This is a simple academic project I have completed under software engineering course using <mark>JAVA</mark> and <mark>MVC</mark> architectural pattern.
 
-       #####*R-BLOG*
+       **R-BLOG**
        
        A blog-based project using <mark>HTML</mark>, <mark>CSS</mark>, <mark>JavaScript</mark> and <mark>Django</mark> framework. I started this project as a way to learn about <mark>Django</mark>. Currently, working on it to add more features.
 
@@ -117,7 +117,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Awarded with merit-based scholarship in Brac University (2020 - 2022)
       - Was one of the founding members of Blazing Youth club, a social activity club during high school
-      - Alongside my interests in technologies and software engineering some of my other interests and hobbies are:Reading, Gaming & Eating
+      - Alongside my interests in technologies and software engineering some of my other interests and hobbies are: Reading, Gaming & Eating
       
 # Footer
 footer_show_references: false
