@@ -34,10 +34,6 @@ additional_links:
 - title: LeetCode
   icon: fas fa-globe
   url: https://leetcode.com/nazmulislam/ 
-  
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -57,19 +53,19 @@ content:
   - title: Projects # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      Hotel Management System
+      *Hotel Management System*
       
       This is a simple academic project I have completed under software engineering course using <mark>JAVA</mark> and <mark>MVC</mark> architectural pattern.
 
-       R-BLOG
+       *R-BLOG*
        
        A blog-based project using <mark>HTML</mark>, <mark>CSS</mark>, <mark>JavaScript</mark> and <mark>Django</mark> framework. I started this project as a way to learn about <mark>Django</mark>. Currently, working on it to add more features.
 
-       Buy-It
+       *Buy-It*
        
        An E-commerce project mainly based on <mark>Django</mark>, <mark>Bootstrap</mark>, and <mark>JavaScript</mark>. I wanted to learn how an E-commerce website works and try to implement <mark>REST</mark> api in this project.
         
-       **Surveillance in Maritime Scenario Using Deep-Learning and Swarm Intelligence**.
+       *Surveillance in Maritime Scenario Using Deep-Learning and Swarm Intelligence*
         
        This is my thesis project for drone-based rescue operations using swarm algorithm and object detection CNN model.
 
@@ -83,8 +79,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Student Tutor
         caption: June 2021 - April 2022
-#         quote: >
-#           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Served as Student Tutor in Artificial Intelligence-(8 months) and Programming Language-(4 months) courses. Tasked with teaching students about basic concepts of artificial intelligence, machine learning, and basics of python and OOP.
 
@@ -96,26 +90,35 @@ content:
         title: BRAC University
         caption: 2018 - 2022
         sub_title: BSc Computer Science and Engineering
-#         quote: >
-#           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at the university, I learned most of my theoretical and practical skills. I also learned about teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and learned a lot about a healthy work-life balance.
 
           I also spent my free time as a *Senior Executive* and was one of the founding members of the *FINACT Club*.
-
+          
+  - title: Technical Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      **Programming Language:**
+      - Python
+      - JAVA
+      - C++
+      - NetLogo
+      
+      **Structured Query Language:**
+      - MySQL
+      
+      **Framework:**
+      - Django
+      - TensorFlow
+      - Pytorch
+      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in technologies and software engineering some of my other interests and hobbies are:
-      - Reading
-      - Gaming
-      - Eating
+      - Awarded with merit-based scholarship in Brac University (2020 - 2022)
+      - Was one of the founding members of Blazing Youth club, a social activity club during high school
+      - Alongside my interests in technologies and software engineering some of my other interests and hobbies are:Reading, Gaming & Eating
       
-#      -[Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-#       Look at this cool image  
-#       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
