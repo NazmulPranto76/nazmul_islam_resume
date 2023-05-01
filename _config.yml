@@ -57,7 +57,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Hotel Management System
         # link: github.com/sproogen
         # link_text: Project Website
@@ -71,40 +71,23 @@ content:
           This is a simple academic project I have completed under software engineering course using <mark>JAVA</mark> and <mark>MVC</mark> architectural pattern.
 
     content:
-      - layout: top-middle
+      - layout: left
         title: R-BLOG
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
         description: | # this will include new lines to allow paragraphs
           A blog-based project using <mark>HTML</mark>, <mark>CSS</mark>, <mark>JavaScript</mark> and <mark>Django</mark> framework. I started this project as a way to learn about <mark>Django</mark>. Currently, working on it to add more features.
 
     content:
-      - layout: top-middle
+      - layout: left
         title: Buy-It
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
         description: | # this will include new lines to allow paragraphs
           An E-commerce project mainly based on <mark>Django</mark>, <mark>Bootstrap</mark>, and <mark>JavaScript</mark>. I wanted to learn how an E-commerce website works and try to implement <mark>REST</mark> api in this project.
 
     content:
       - layout: top-left
         title: Thesis Project
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
         description: | # this will include new lines to allow paragraphs
           **Surveillance in Maritime Scenario Using Deep-Learning and Swarm Intelligence**
+          
           This is my thesis project for drone-based rescue operations using swarm algorithm and object detection CNN model.
 
 
@@ -136,22 +119,6 @@ content:
           During my time at the university, I learned most of my theoretical and practical skills. I also learned about teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and learned a lot about a healthy work-life balance.
 
           I also spent my free time as a *Senior Executive* and was one of the founding members of the *FINACT Club*.
-
-#     content:
-#       - layout: left
-#         title: Notre Dame College
-#         caption: 2015 - 2017
-#         description: | # this will include new lines to allow paragraphs    
-#           I met a lot of talented students and teachers here. Although my time spent here was short, I learned about many new topics.
-
-#     content:
-#       - layout: left
-#         title: Ideal School and College
-#         caption: 2005 - 2015
-#         description: | # this will include new lines to allow paragraphs
-#           My foundation for the future was built here. I believe my time spent here contributed to my current character development and taught me how to interact with new people.
-
-#           Moreover, I, along with my friends founded *Blazing Youth Club*, a social activity club involving homeless children.        
 
   - title: A Little More About Me
     layout: text
