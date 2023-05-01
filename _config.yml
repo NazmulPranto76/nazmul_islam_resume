@@ -14,19 +14,8 @@ website: https://nazmulpranto76.github.io/nazmul_islam_resume/
 darkmode: true
 
 # Social links
-# twitter_username: facespics
 github_username:  NazmulPranto76
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: Nazmul Pranto
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-# linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+
 
 # Additional icon links
 additional_links:
@@ -147,21 +136,21 @@ content:
 
           I also spent my free time as a *Senior Executive* and was one of the founding members of the *FINACT Club*.
 
-    content:
-      - layout: left
-        title: Notre Dame College
-        caption: 2015 - 2017
-        description: | # this will include new lines to allow paragraphs    
-          I met a lot of talented students and teachers here. Although my time spent here was short, I learned about many new topics.
+#     content:
+#       - layout: left
+#         title: Notre Dame College
+#         caption: 2015 - 2017
+#         description: | # this will include new lines to allow paragraphs    
+#           I met a lot of talented students and teachers here. Although my time spent here was short, I learned about many new topics.
 
-    content:
-      - layout: left
-        title: Ideal School and College
-        caption: 2005 - 2015
-        description: | # this will include new lines to allow paragraphs
-          My foundation for the future was built here. I believe my time spent here contributed to my current character development and taught me how to interact with new people.
+#     content:
+#       - layout: left
+#         title: Ideal School and College
+#         caption: 2005 - 2015
+#         description: | # this will include new lines to allow paragraphs
+#           My foundation for the future was built here. I believe my time spent here contributed to my current character development and taught me how to interact with new people.
 
-          Moreover, I, along with my friends founded *Blazing Youth Club*, a social activity club involving homeless children.        
+#           Moreover, I, along with my friends founded *Blazing Youth Club*, a social activity club involving homeless children.        
 
   - title: A Little More About Me
     layout: text
