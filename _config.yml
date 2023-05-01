@@ -95,7 +95,7 @@ content:
           An E-commerce project mainly based on <mark>Django</mark>, <mark>Bootstrap</mark>, and <mark>JavaScript</mark>. I wanted to learn how an E-commerce website works and try to implement <mark>REST</mark> api in this project.
 
     content:
-      - layout: left
+      - layout: top-left
         title: Surveillance in Maritime Scenario Using Deep-Learning and Swarm Intelligence
         # link: github.com/sproogen
         # link_text: Project Website
