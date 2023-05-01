@@ -96,7 +96,7 @@ content:
 
     content:
       - layout: top-left
-        title: Surveillance in Maritime Scenario Using Deep-Learning and Swarm Intelligence
+        title: Thesis Project
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -104,6 +104,7 @@ content:
         #     icon: fab fa-github
         #     url: github.com/sproogen/modern-resume-theme
         description: | # this will include new lines to allow paragraphs
+          **Surveillance in Maritime Scenario Using Deep-Learning and Swarm Intelligence**
           This is my thesis project for drone-based rescue operations using swarm algorithm and object detection CNN model.
 
 
